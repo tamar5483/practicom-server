@@ -1,0 +1,664 @@
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.MyProject.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MyProject.WebAPI.props
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyProject.WebAPI.props
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyProject.WebAPI.props
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Services.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Services.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.MyProject.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.MyProject.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyProject.WebAPI.props
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.MyProject.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.MyProject.WebAPI.props
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyProject.WebAPI.props
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyProject.WebAPI.props
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+D:\Users\User\Desktop\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\appsettings.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.exe
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.MyServices.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\scopedcss\bundle\MyProject.WebAPI.styles.css
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\refint\MyProject.WebAPI.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\MyProject.WebAPI.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.WebAPI\obj\Debug\net6.0\ref\MyProject.WebAPI.dll

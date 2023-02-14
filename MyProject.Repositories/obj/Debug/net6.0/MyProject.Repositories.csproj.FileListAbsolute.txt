@@ -1,0 +1,98 @@
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+D:\Users\User\Desktop\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\refint\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\MyProject.Repositories.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Repositories\obj\Debug\net6.0\ref\MyProject.Repositories.dll

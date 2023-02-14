@@ -1,0 +1,119 @@
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+F:\לימודים\שנה ב\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+F:\‏‏תיקיה חדשה (2)\הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+D:\Users\User\Desktop\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+D:\Users\User\Desktop\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+Y:\Groups\1\ולדמן תמר\פרקטיקום\יותר הכי חדש\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
